@@ -1,0 +1,44 @@
+﻿@model List<TDDTestingMVC.Data.Cliente>
+
+<h1 class="text-center my-4">Lista de Clientes</h1>
+
+<div class="container">
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Codigo</th>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Fecha de Nacimiento</th>
+                <th>Estado</th>
+                <th>Cédula</th>
+                <th>Teléfono</th>
+                <th>Dirección</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cliente in Model)
+            {
+                <tr>
+                    <td>@cliente.Codigo</td>
+                    <td>@cliente.Nombres</td>
+                    <td>@cliente.Apellidos</td>
+                    <td>@cliente.FechaNacimiento.ToString("dd-MM-yyyy")</td>
+                    <td>@(cliente.Estado ? "Activo" : "Inactivo")</td>
+                    <td>@cliente.Cedula</td>
+                    <td>@cliente.Telefono</td>
+                    <td>@cliente.Direccion</td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { id = cliente.Codigo })" class="btn btn-warning btn-sm">Editar</a>
+                        <a href="@Url.Action("Delete", new { id = cliente.Codigo })" class="btn btn-danger btn-sm">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="text-center mt-3">
+        <a href="@Url.Action("Create")" class="btn btn-primary">Agregar Nuevo Cliente</a>
+    </div>
+</div>

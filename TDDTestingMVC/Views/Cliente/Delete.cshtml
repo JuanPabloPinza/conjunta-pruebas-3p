@@ -1,0 +1,16 @@
+﻿@model TDDTestingMVC.Data.Cliente
+
+@* @{ *@
+@*     ViewData["Title"] = "Delete"; *@
+@* } *@
+
+<h1>Borrar Cliente</h1>
+<h3>¿Estás seguro de que deseas eliminar a @Model.Nombres @Model.Apellidos?</h3>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Codigo" />
+    <button type="submit">Eliminar</button>
+</form>
+<a asp-action="Index">Cancelar</a>
+
+

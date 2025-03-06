@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\reqnrolltestproject\\features\\reportecompleto.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\features\\reportecompleto.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\reqnrolltestproject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\reqnrolltestproject\\reports\\extendreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\reports\\extendreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\reqnrolltestproject\\stepdefinitions\\reportecompletostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\stepdefinitions\\reportecompletostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\reqnrolltestproject\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF9CC42-D4DE-4CC4-8A81-8361E13E234A}|ReqnrollTestProject\\ReqnrollTestProject.csproj|solutionrelative:reqnrolltestproject\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\pedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\pedido\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\pedido\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\pedido\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\pedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\pedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\models\\pedidodataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\models\\pedidodataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\data\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\data\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|c:\\users\\pinza\\downloads\\examenpruebas\\final\\tddtestingmvc\\tddtestingmvc\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{966DC0AD-9512-4F01-9053-F620882C49B5}|TDDTestingMVC\\TDDTestingMVC.csproj|solutionrelative:tddtestingmvc\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 458,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteCompletoStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\ReporteCompletoStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\StepDefinitions\\ReporteCompletoStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\StepDefinitions\\ReporteCompletoStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\StepDefinitions\\ReporteCompletoStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:32:23.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtendReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Reports\\ExtendReportManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Reports\\ExtendReportManager.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Reports\\ExtendReportManager.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Reports\\ExtendReportManager.cs",
+              "ViewState": "AgIAACkAAAAAMzMzMzMpwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:08:40.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:28:13.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReporteCompleto.feature",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Features\\ReporteCompleto.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Features\\ReporteCompleto.feature",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Features\\ReporteCompleto.feature",
+              "RelativeToolTip": "ReqnrollTestProject\\Features\\ReporteCompleto.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-27T18:24:30.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebDriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "RelativeToolTip": "ReqnrollTestProject\\Utilities\\WebDriverManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:55:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Pedido\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Edit.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Pedido\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:06:03.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAACcAAAAAzczMzMw2wF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:23:05.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:11:09.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Pedido\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Delete.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Pedido\\Delete.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:52:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T14:14:18.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Pedido\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Pedido\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:26:33.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Create.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Pedido\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Pedido\\Create.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Pedido\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:28:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PedidoDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Models\\PedidoDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Models\\PedidoDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Models\\PedidoDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Models\\PedidoDataAccessLayer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:22:06.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Data\\Pedido.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Data\\Pedido.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Data\\Pedido.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Data\\Pedido.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:21:07.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Data\\Cliente.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Data\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Data\\Cliente.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Data\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:15:40.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:12:15.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T15:53:11.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:42:17.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:42:11.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Models\\ClienteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Models\\ClienteDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Models\\ClienteDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Models\\ClienteDataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:10:31.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Models\\Calculadora.cs",
+              "RelativeToolTip": "TDDTestingMVC\\Models\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:10:58.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\libman.json",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\libman.json",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\libman.json",
+              "RelativeToolTip": "TDDTestingMVC\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T12:25:15.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T15:53:16.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T15:46:01.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pinza\\Downloads\\ExamenPruebas\\FINAL\\TDDTestingMVC\\TDDTestingMVC\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "TDDTestingMVC\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AgIAACgAAAAANDMzMzMLwDIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T16:20:10.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

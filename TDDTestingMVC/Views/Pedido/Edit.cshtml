@@ -1,0 +1,59 @@
+﻿@model TDDTestingMVC.Data.Pedido
+
+@{
+    ViewData["Title"] = "Editar Pedido";
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h2 class="mb-0">Editar Pedido</h2>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit" method="post">
+                @Html.AntiForgeryToken()
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <!-- Campo oculto para PedidoID -->
+                <input type="hidden" asp-for="PedidoID" />
+
+                <div class="form-group">
+                    <label asp-for="ClienteID" class="font-weight-bold"></label>
+                    <!-- Dropdown para seleccionar un cliente válido -->
+                    <select asp-for="ClienteID" asp-items="ViewBag.Clientes" class="form-control"></select>
+                    <span asp-validation-for="ClienteID" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FechaPedido" class="font-weight-bold"></label>
+                    <div class="input-group">
+                        <input asp-for="FechaPedido" class="form-control" type="date" />
+                        <div class="input-group-append">
+                            <span class="input-group-text">
+                                <i class="fa fa-calendar"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <span asp-validation-for="FechaPedido" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Monto" class="font-weight-bold"></label>
+                    <input asp-for="Monto" class="form-control" placeholder="Ingrese el monto" />
+                    <span asp-validation-for="Monto" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Estado" class="font-weight-bold"></label>
+                    <input asp-for="Estado" class="form-control" placeholder="Ingrese el estado del pedido" />
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mt-4">
+                    <button type="submit" class="btn btn-success mr-2">Guardar Cambios</button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+﻿@model TDDTestingMVC.Data.Pedido
+
+@{
+    ViewData["Title"] = "Crear Pedido";
+}
+
+<h1>Create Pedido</h1>
+
+<h4>Pedido</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Se asume que se tendrá una lista de clientes; de lo contrario se usa un input numérico -->
+            <div class="form-group">
+                <label asp-for="ClienteID" class="control-label"></label>
+                @* Si tienes la lista de clientes en el ViewBag, podrías usar: 
+                   <select asp-for="ClienteID" class="form-control" asp-items="ViewBag.Clientes"></select> 
+                *@
+                <input asp-for="ClienteID" class="form-control" />
+                <span asp-validation-for="ClienteID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="FechaPedido" class="control-label"></label>
+                <input asp-for="FechaPedido" class="form-control" type="date" />
+                <span asp-validation-for="FechaPedido" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Monto" class="control-label"></label>
+                <input asp-for="Monto" class="form-control" />
+                <span asp-validation-for="Monto" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                <input asp-for="Estado" class="form-control" />
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
